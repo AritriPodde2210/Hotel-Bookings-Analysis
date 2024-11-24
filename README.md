@@ -51,7 +51,23 @@ In recent years, both **City Hotels** and **Resort Hotels** have faced high canc
    - Utilized Python libraries like `Pandas`, `NumPy`, and `Matplotlib` to uncover patterns and trends.  
 
 5. **Presentation**  
-   - Created interactive dashboards and visualizations using tools like Power BI for stakeholders.  
+   -
+## Visual Insights  
+
+### 1. Average Daily Rate (ADR) : City Hotel & Resort Hotel 
+The graph below displays the **Average Daily Rate (ADR)** segmented by whether bookings were canceled or not, for each month.  
+
+![Average Daily Rate](![Screenshot (174)](https://github.com/user-attachments/assets/0537e4db-448b-4958-9637-304646bf9d77)
+)  
+
+### 2. Reservation Status Count 
+The bar chart below displays the **Reservation Status Count** 
+![Reservation status count](![Screenshot (173)](https://github.com/user-attachments/assets/86f6bbce-c51a-48c2-9a26-f2e18cd24444)
+)
+
+This chart helps identify how ADR fluctuates between canceled and non-canceled bookings, giving insights into pricing strategies and their impact on cancellations.  
+
+---
 
 ---
 
