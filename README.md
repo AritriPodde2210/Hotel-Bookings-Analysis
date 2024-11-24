@@ -56,7 +56,8 @@ In recent years, both **City Hotels** and **Resort Hotels** have faced high canc
 ---
 
 ## Tools and Technologies  
-- **Programming:** Python  
+- **Programming:** Python
+- **ToolL** Jupyter Notebook  
 - **Data Cleaning:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
 - **Dashboarding:** Power BI(Not Done Yet)
