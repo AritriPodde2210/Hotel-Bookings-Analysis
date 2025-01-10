@@ -76,7 +76,7 @@ This chart helps identify how ADR fluctuates between canceled and non-canceled b
 - **ToolL** Jupyter Notebook  
 - **Data Cleaning:** Pandas, NumPy  
 - **Visualization:** Matplotlib, Seaborn  
-- **Dashboarding:** Power BI(Not Done Yet)
+- **Dashboarding:** Power BI
 - **Version Control:** Git, GitHub  
 
 ---
